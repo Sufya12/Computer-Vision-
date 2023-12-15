@@ -1,1 +1,1 @@
-
+pixel transform by converting value of each of the pixel to invert the image, darken the image, lighten the image and increase coontrast, observe difference between high contrast and high brightness (lighten image).
